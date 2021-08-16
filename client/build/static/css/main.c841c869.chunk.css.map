@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAGA,KACI,wBAJe,CAKlB,aAEG,wBANmB","file":"main.c841c869.chunk.css","sourcesContent":["$bodyColor: #f1f5f5;\n$checkboxColor: #b8ebeb;\n\nbody{\n    background-color: $bodyColor;\n}\n.card-header{\n    background-color: $checkboxColor;\n}"]}
